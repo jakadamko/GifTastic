@@ -1,5 +1,5 @@
 .buttonsDisplay {
-    background-color: lightblue;
+    background-color: lightgrey;
     padding: 10px 5px 10px 5px;
 }
 
@@ -17,4 +17,15 @@ input[type="button"]:hover {
     border: 1px solid #999;
     background-color: #1e9088;
     color: #fff;
+}
+
+#aside{
+	background-color:lightgrey;
+	margin: auto;
+    width: 30%;
+    padding: 10px;
+}
+
+#submitBtn{
+	margin-left:10px;
 }
