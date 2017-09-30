@@ -30,7 +30,7 @@ $(document).ready(function() {
 
         buttonVal = $(this).val().trim();
         //queryURL = "https://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey=40e9cece";
-        queryURL = "http://api.giphy.com/v1/gifs/search?q=" + buttonVal + "&api_key=dc6zaTOxFJmzC&limit=5";
+        queryURL = "https://api.giphy.com/v1/gifs/search?q=" + buttonVal + "&api_key=dc6zaTOxFJmzC&limit=5";
 
         //var queryURL = "http://api.giphy.com/v1/gifs/search?q='"+ buttonVal +"&api_key=dc6zaTOxFJmzC&limit=1";
         //var queryURL = "https://api.giphy.com/v1/gifs/random?api_key=dc6zaTOxFJmzC&tag=" + buttonVal;
