@@ -19,6 +19,6 @@ GifTastic is a web page that populates with gifs of the users choice. The GIPHY 
 
 ### Deployed to Github Pages:
 
-http://adamkojak.com/Giftastic/
+http://adamkojak.com/GifTastic/
 
 - - -
